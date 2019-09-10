@@ -25,9 +25,5 @@ namespace TCCO_PLUGIN
 
             return Result.Succeeded;
         }
-
-
-
-        
     }
 }
